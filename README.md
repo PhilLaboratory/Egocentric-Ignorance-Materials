@@ -1,7 +1,7 @@
-# What you don't know matters: Knowledge and ignorance states impact healthy adults' theory of mind
+# We focus on what others know when reasoning from positions of ignorance
 
 ## General Information
-This repository hosts all materials, scripts, and figures for "What you don't know matters: Knowledge and ignorance states impact healthy adults' theory of mind." 
+This repository hosts all materials, scripts, and figures for "We focus on what others know when reasoning from positions of ignorance." 
 
 ## Repository structure
 ```
